@@ -1,0 +1,3 @@
+([('my_app',
+   '/Users/dharaneeshkuruba/Desktop/Secure-Digital-Vault/dist/my_app',
+   'EXECUTABLE')],)
