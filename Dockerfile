@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.10
 
 # Install system dependencies: Python, pip, and tkinter (python3-tk)
 RUN apt-get update && apt-get install -y \
